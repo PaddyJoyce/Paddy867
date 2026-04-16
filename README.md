@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Paddy867
-- 👀 I’m interested in machine learning and learning new coding languages
-- 🌱 I’m currently learning python
+# Hey, I'm Paddy 👋
+
+First year CS student at Bath. Python is my main language but I have done work in Java and C too.
+
+Currently interested in machine learning and the maths behind it. For one of my uni projects I am building a spam classifier using Naive Bayes, which is a cool look at the probability behind how machines make decisions.
+
 
 <!---
 Paddy867/Paddy867 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
